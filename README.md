@@ -2,9 +2,9 @@
 
 2022.10.19
 
-Reporter: Xinyang Liu, [Diffusion model](pdf/OT_CT.pdf)
+Presenter: Xinyang Liu, [Diffusion model](pdf/OT_CT.pdf)
 
 2022.10.12
 
-Reporter: Dongsheng Wang, [Optimal transport](pdf/OT_CT.pdf)
+Presenter: [Dongsheng Wang](wds2014.github.io), [Optimal transport](pdf/OT_CT.pdf)
 
