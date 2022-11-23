@@ -1,8 +1,13 @@
 # Reading-Group
 
+
+2022.11.09
+
+Presenter: Zhibin Duan, [Diffusion model](Diffssion_vae.pdf)
+
 2022.10.19
 
-Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model](pdf/OT_CT.pdf)
+Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model](pdf/DiffusionLXY.pptx)
 
 2022.10.12
 
