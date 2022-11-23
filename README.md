@@ -7,7 +7,7 @@ Presenter: Zhibin Duan, [Diffusion model](Diffssion_vae.pdf)
 
 2022.10.19
 
-Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model](pdf/DiffusionLXY.pptx)
+Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model](pdf/DiffusionLXY.pdf)
 
 2022.10.12
 
