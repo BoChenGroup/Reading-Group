@@ -1,13 +1,18 @@
 # Reading-Group
 
 
+2022.11.23
+
+Presenter: Xinyu Wang, [Anchor free object detection](anchor-free.pdf)
+
+
 2022.11.09
 
-Presenter: Zhibin Duan, [Diffusion model](Diffssion_vae.pdf)
+Presenter: Zhibin Duan, [Diffusion model (VAE direction)](Diffssion_vae.pdf)
 
 2022.10.19
 
-Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model](pdf/DiffusionLXY.pdf)
+Presenter: [Xinyang Liu](https://github.com/xinyangATK), [Diffusion model (score-based)](pdf/DiffusionLXY.pdf)
 
 2022.10.12
 
