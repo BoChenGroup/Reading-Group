@@ -3,20 +3,20 @@
 
 2022.12.28
 
-Presenter: Ziheng Cheng, [Anchor free object detection](anchor-free.pdf)
+Presenter: Ziheng Cheng, [Anchor free object detection](pdf/anchor-free.pdf)
 
 2022.12.14
 
-Presenter: Haoshi Yan, [Anchor free object detection](anchor-free.pdf)
+Presenter: Haoshi Yan, [Anchor free object detection](pdf/anchor-free.pdf)
 
 2022.11.23
 
-Presenter: Xinyu Wang, [Anchor free object detection](anchor-free.pdf)
+Presenter: Xinyu Wang, [Anchor free object detection](pdf/anchor-free.pdf)
 
 
 2022.11.09
 
-Presenter: Zhibin Duan, [Diffusion model (VAE direction)](Diffssion_vae.pdf)
+Presenter: Zhibin Duan, [Diffusion model (VAE direction)](pdf/Diffssion_vae.pdf)
 
 2022.10.19
 
