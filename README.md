@@ -7,7 +7,7 @@ Presenter: Ziheng Cheng, [Flamingo](pdf/anchor-free.pdf)
 
 2022.12.14
 
-Presenter: Haoshi Yan, [SwinTransformer](pdf/SwinTransformer-yhs.pdf.pdf)
+Presenter: Haoshi Yan, [SwinTransformer](pdf/SwinTransformer-yhs.pdf)
 
 2022.11.23
 
