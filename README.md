@@ -3,11 +3,11 @@
 
 2022.12.28
 
-Presenter: Ziheng Cheng, [Anchor free object detection](pdf/anchor-free.pdf)
+Presenter: Ziheng Cheng, [Flamingo](pdf/anchor-free.pdf)
 
 2022.12.14
 
-Presenter: Haoshi Yan, [Anchor free object detection](pdf/anchor-free.pdf)
+Presenter: Haoshi Yan, [SwinTransformer](pdf/SwinTransformer-yhs.pdf.pdf)
 
 2022.11.23
 
