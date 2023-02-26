@@ -3,7 +3,7 @@
 
 2022.12.28
 
-Presenter: Ziheng Cheng, [Flamingo](pdf/anchor-free.pdf)
+Presenter: Ziheng Cheng, [Flamingo](pdf/flamingo.pdf)
 
 2022.12.14
 
