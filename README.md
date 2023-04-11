@@ -4,11 +4,11 @@
 
 2023.3
 
-Presenter: Guanliang Liu, [RLHF](pdf/flamingo.pdf)
+Presenter: Guanliang Liu, [RLHF](pdf/RLHF.pdf)
 
 2023.3
 
-Presenter: Dongsheng Wang, [Instruct-pix2pix](pdf/flamingo.pdf)
+Presenter: Dongsheng Wang, [Instruct-pix2pix](pdf/Instruct-pix2pix.pdf)
 
 2022.12.28
 
