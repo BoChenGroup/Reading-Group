@@ -1,6 +1,15 @@
 # Reading-Group
 
 
+
+2023.3
+
+Presenter: Guanliang Liu, [RLHF](pdf/flamingo.pdf)
+
+2023.3
+
+Presenter: Dongsheng Wang, [Instruct-pix2pix](pdf/flamingo.pdf)
+
 2022.12.28
 
 Presenter: Ziheng Cheng, [Flamingo](pdf/flamingo.pdf)
