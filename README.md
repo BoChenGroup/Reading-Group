@@ -1,6 +1,8 @@
 # Reading-Group
 
+2023.4
 
+Presenter: Zequn Zeng, [CLIP](pdf/CLIP-and-related.pdf)
 
 2023.3
 
