@@ -1,8 +1,20 @@
 # Reading-Group
 
+2023.5
+
+Presenter: Wei Wang, [DN-DETR](pdf/dn-detr.pdf)
+
+2023.5
+
+Presenter: Zhibin Duan, [Memory-augment-models](pdf/Memory augment models.pdf)
+
+2023.5
+
+Presenter: Siyuan Zhang, [MobileFormer](pdf/MobileFormer.pdf)
+
 2023.4
 
-Presenter: Zequn Zeng, [CLIP](pdf/CLIP-and-related.pdf)
+Presenter: Zequn Zeng, [CLIP and CLIP-based models](pdf/CLIP-related-models.pdf)
 
 2023.3
 
