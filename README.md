@@ -6,7 +6,7 @@ Presenter: Wei Wang, [DN-DETR](pdf/dn-detr.pdf)
 
 2023.5
 
-Presenter: Zhibin Duan, [Memory-augment-models](pdf/Memory augment models.pdf)
+Presenter: Zhibin Duan, [Memory-augment-models](pdf/Memory-augment-models.pdf)
 
 2023.5
 
