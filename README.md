@@ -1,7 +1,7 @@
 # Reading-Group
 2023.6
 
-Presenter: Xinyang Liu, [Graph Generation](pdf/Deep Graph Generation.pdf)
+Presenter: Xinyang Liu, [Graph Generation](pdf/Deep-Graph-Generation.pdf)
 
 2023.5
 
