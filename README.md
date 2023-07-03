@@ -7,6 +7,10 @@ Presenter: Xinyang Liu, [Graph Generation](pdf/Deep-Graph-Generation.pdf)
 
 Presenter: Yuxin Li, [Speech pretraining models](pdf/Speech-pretraining.pdf)
 
+2023.6
+
+Presenter: Xinyue Hu, [LM+KG](pdf/LM-KG.pdf)
+
 2023.5
 
 Presenter: Wei Wang, [DN-DETR](pdf/dn-detr.pdf)
