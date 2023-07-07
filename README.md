@@ -1,4 +1,9 @@
 # Reading-Group
+
+2023.7
+
+Presenter: Zhong Peng, [Bert-style CNN Pretraining](pdf/BERT-style-pretraining-for-CNN.pdf)
+
 2023.6
 
 Presenter: Xinyang Liu, [Graph Generation](pdf/Deep-Graph-Generation.pdf)
